@@ -1,1 +1,2 @@
-.DS_STORE
+# Mac OS Specific files (.DS_Store)
+.DS_Store
