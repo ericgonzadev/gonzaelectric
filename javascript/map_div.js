@@ -10,7 +10,7 @@ function initialize() {
   var mapOptions = {
     center: latlng,
     scrollWheel: false,
-    zoom: 15
+    zoom: 14
   };
   
   var marker = new google.maps.Marker({
